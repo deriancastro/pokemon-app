@@ -9,3 +9,12 @@
 .Card > div {
   display: flex;
 }
+
+.Card--darkmode {
+  background: #666;
+  color: white;
+}
+
+.Card .Button.active {
+  background: turquoise;
+}
